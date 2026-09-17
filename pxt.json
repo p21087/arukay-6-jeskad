@@ -9,7 +9,8 @@
         "image mapping": "github:bladebaillio/image-mapping#v0.0.1",
         "Turtle Logo": "github:mr-coxall/turtle-logo#V1.0.1",
         "arcade-shader": "github:riknoll/arcade-shader#d2a2572906fdb68ff429f337e30606b069e688ea",
-        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0"
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3"
     },
     "files": [
         "main.blocks",
